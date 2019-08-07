@@ -1,0 +1,28 @@
+﻿  conio2.cpp
+  main.cpp
+c:\users\wyima\desktop\bartek\studia\semestr 1\pp-projekt1\main.cpp(846): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: zobacz deklarację „fopen”
+c:\users\wyima\desktop\bartek\studia\semestr 1\pp-projekt1\main.cpp(874): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: zobacz deklarację „fscanf”
+c:\users\wyima\desktop\bartek\studia\semestr 1\pp-projekt1\main.cpp(875): warning C4474: „fscanf”: przekazano za dużo argumentów dla ciągu formatowania
+  c:\users\wyima\desktop\bartek\studia\semestr 1\pp-projekt1\main.cpp(875): note: symbole zastępcze i ich parametry oczekują 4 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 5
+c:\users\wyima\desktop\bartek\studia\semestr 1\pp-projekt1\main.cpp(875): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: zobacz deklarację „fscanf”
+c:\users\wyima\desktop\bartek\studia\semestr 1\pp-projekt1\main.cpp(878): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: zobacz deklarację „fscanf”
+c:\users\wyima\desktop\bartek\studia\semestr 1\pp-projekt1\main.cpp(884): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: zobacz deklarację „fscanf”
+c:\users\wyima\desktop\bartek\studia\semestr 1\pp-projekt1\main.cpp(929): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: zobacz deklarację „fscanf”
+c:\users\wyima\desktop\bartek\studia\semestr 1\pp-projekt1\main.cpp(930): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: zobacz deklarację „fscanf”
+c:\users\wyima\desktop\bartek\studia\semestr 1\pp-projekt1\main.cpp(936): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: zobacz deklarację „fscanf”
+c:\users\wyima\desktop\bartek\studia\semestr 1\pp-projekt1\main.cpp(1055): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: zobacz deklarację „fopen”
+c:\users\wyima\desktop\bartek\studia\semestr 1\pp-projekt1\main.cpp(1119): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: zobacz deklarację „fopen”
+c:\users\wyima\desktop\bartek\studia\semestr 1\pp-projekt1\main.cpp(1153): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: zobacz deklarację „fopen”
+  Generowanie kodu...
+  ConsoleApplication1.vcxproj -> C:\Users\wyima\Desktop\Bartek\STUDIA\SEMESTR 1\PP-PROJEKT1\Debug\ConsoleApplication1.exe
